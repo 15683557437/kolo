@@ -1,3 +1,0 @@
-# api
-
-> An awesome project.
