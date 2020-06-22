@@ -6,7 +6,7 @@
 
 ### 接口文档
 
-接口链接:`http://api.huokuoluo.cn/api/tiangou/api.php`
+接口链接:`http://api.huokuoluo.cn/api/yan/api.php`
 
 返回格式:`TEXT`  请求方式:`GET`
 

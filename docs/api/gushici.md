@@ -1,6 +1,6 @@
-# 舔狗日记
+# 美日诗词
 
-### <i class="fas fa-home fa-fw"></i>接口说明
+### 接口说明
 随机返回一句古诗词，带出处
 
 
@@ -30,5 +30,5 @@
 ### 返回示例
 `document.write("红酥手，黄縢酒，满城春色宫墙柳。－－陆游《钗头凤·红酥手》");`
 
-### 实例演示
+### 实例演示([古诗词](http://api.2kolo.cn/api/gushici/))
 <iframe src="http://api.2kolo.cn/api/gushici/" height="600" width="100%" farmeborder="no" border="0"></iframe>

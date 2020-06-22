@@ -15,10 +15,13 @@
 * [Favicon](/api/favicon)  获取指定网站的<font color="red">Favicon</font>，直接输出图片
 
 
+* [随机一言](/api/yan)  随机返回一句<font color="red">文本</font>，类型有:爱情,文艺,毒鸡汤,精神语录
+
+
 * [舔狗日记](/api/dog)  舔到最后<font color="red">一无所有</font>
 
 
-* [美日诗词](/api/gishici)  随机返回一句<font color="red">古诗词</font>，类型有:爱情,春天,夏天,其他
+* [美日诗词](/api/gshici)  随机返回一句<font color="red">古诗词</font>，类型有:爱情,春天,夏天,其他
 
 
 * [短视频解析](/api/dsp)  各大短视频平台<font color="red">无水印</font>解析，当前仅支持抖音

@@ -1,6 +1,6 @@
 # 舔狗日记
 
-### <i class="fas fa-home fa-fw"></i>接口说明
+### 接口说明
 随机展示主题为舔狗日记的文字
 
 
@@ -31,5 +31,5 @@
 ### 返回示例
 `document.write("今天你跟我说我很丑，让我不要骚扰你了。我听了很高兴，小说里的主角都像你这样，最开始表现的很厌恶，但最后总会被我的真心打动。你现在有多讨厌我，以后就会有多爱我。嘻嘻。");`
 
-### 实例演示
+### 实例演示([舔狗日记](http://api.2kolo.cn/api/tiangou/))
 <iframe src="http://api.2kolo.cn/api/tiangou/" height="600" width="100%" farmeborder="no" border="0"></iframe>
