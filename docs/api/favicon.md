@@ -1,6 +1,6 @@
 # Fav图标获取
 
-### <i class="fas fa-home fa-fw"></i>接口说明
+### <i class="fa fa-bandcamp"></i>接口说明
 
 获取指定网站的Favicon图标
 
