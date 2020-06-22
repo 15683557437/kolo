@@ -30,5 +30,5 @@
 ### 返回示例
 `都说谈恋爱会影响学习，难道学习，就不影响谈恋爱吗？`
 
-### 实例演示
-<iframe src="http://api.2kolo.cn/api/gushici/" height="600" width="100%" farmeborder="no" border="0"></iframe>
+### 实例演示([毒鸡汤](http://api.2kolo.cn/api/djt/))
+<iframe src="http://api.2kolo.cn/api/djt/" height="600" width="100%" farmeborder="no" border="0"></iframe>
