@@ -29,9 +29,7 @@
 `2:`http://api.huokuoluo.cn/api/tiangou/api.php?encode=js
 
 ### 返回示例
-`document.write("
-今天你跟我说我很丑，让我不要骚扰你了。我听了很高兴，小说里的主角都像你这样，最开始表现的很厌恶，但最后总会被我的真心打动。你现在有多讨厌我，以后就会有多爱我。嘻嘻。
-");`
+`document.write("今天你跟我说我很丑，让我不要骚扰你了。我听了很高兴，小说里的主角都像你这样，最开始表现的很厌恶，但最后总会被我的真心打动。你现在有多讨厌我，以后就会有多爱我。嘻嘻。");`
 
 ### 实例演示
-<iframe src="http://api.2kolo.cn/api/tiangou/"></iframe>
+<iframe src="http://api.2kolo.cn/api/tiangou/" height="600" width="100%" farmeborder="no" border="0"></iframe>
