@@ -1,4 +1,4 @@
-![logo](img/logo.jpg ':size=100')
+![logo](docs/img/logo.jpg ':size=100')
 
 # Kolo Wiki <small>1.0</small>
 
